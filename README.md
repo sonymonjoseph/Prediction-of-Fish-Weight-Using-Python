@@ -1,1 +1,1 @@
-# Prediction-of-Fish-Weight-Using-Linear-Regression-Model-(Python)
+# Prediction-of-Fish-Weight-Linear-Regression-Model-(Python)
